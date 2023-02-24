@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anbarasan G</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anbarasan PM</h1>
 
 <p align="center">
   <img src="https://github.com/Anbarasan-PM/Anbarasan-PM/blob/main/Assets/Astro.gif" alt="Astro GIF" width="600" height="450"/><br>
