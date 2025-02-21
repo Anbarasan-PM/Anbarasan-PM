@@ -6,7 +6,7 @@
 
 ### **About Myself:**
  - 🚀 Data Science and ⚛ Machine Learning Enthusiast from Coimbatore, India.
- - 🙍🏽‍♂️ Current: Looking for Internship in 2023.
+ - 🙍🏽‍♂️ Current: Looking for Internship in 2025.
  - 📦 Passionate about learning how-stuff-works besides programming.
  - ⚡ Fun fact: I love playing cricket 🏏 and listening to music 🎧.
 
